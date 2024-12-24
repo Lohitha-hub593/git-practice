@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 created today for practice
-windows
+python3
 =======
 created today for practice 
 created by another dev
