@@ -1,2 +1,2 @@
-created today for practice python
+created today for practice python2
 created by another dev
